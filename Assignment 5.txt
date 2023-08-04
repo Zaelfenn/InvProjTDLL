@@ -1,0 +1,31 @@
+Potion,Healing,+10 to hit points
+Blade,Longsword,Iron,1d8
+Potion,Stamina,+10 to stamina
+Potion,Stamina,+10 to stamina
+Potion,Mana,+5 to mana
+Ranged,Longbow,1d8
+Armor,Leather,11
+Ranged,Sling,1d4
+Mushroom,Shitake,+1 to Constitution for 10 minutes
+Ranged,Heavy Crossbow,1d10
+Potion,Major Healing,+15 to hit points
+Armor,Studded Leather,12
+Mushroom,Lion's Mane,+1 Intelligence for 10 minutes
+Mushroom,Morel,+1 Strength
+Mushroom,Chicken of the Woods,+10 to bravery rolls
+Blade,Main Gauche Dagger,Steel,1d4
+Mushroom,Lion's Mane,+1 Intelligence
+Armor,Leather,11
+Mushroom,Lobster,2d6+9 pincer attack
+Blade,Greatsword,Steel,2d6
+Mushroom,Oyster,+10 chance to find treasure for 10 minutes
+Potion,Healing,+10 to hit points
+Ranged,Longbow,1d8
+Ranged,Sling,1d4
+Armor,Leather,11
+Mushroom,Liberty Cap,+10 to perception rolls for 5 minutes
+Potion,Minor Healing,+5 to hit points
+Mushroom,Shaggy Mane,Beast mode - +2 to all stats for 10 rounds
+Mushroom,Black Trumpet,Stealth mode - +10 to sneak attack for 10 rounds
+Mushroom,Chanterelle,Bard Chant - +10 to all Bard magic attacks
+Mushroom,Oyster,+10 chance to find treasure for 10 minutes
